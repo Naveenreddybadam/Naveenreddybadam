@@ -8,10 +8,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MVKarthikReddy&label=Profile%20views&color=0e75b6&style=flat" alt="Karthik Reddy" /> </p>
 
-- 🌱 I’m currently learning **Big Data**
-- 💬 Ask me about Web Development and Data Engineering
-- 📫 This is gmail **karthikmedagam@gmail.com**
-- ⛰️ 2025 Goal Explore **BIG DATA TOOLS**
+- 🌱 I’m currently learning **SpringBoot**
+- 💬 Ask me about Web Development
+- 📫 This is gmail **badamnaveenreddy2@gmail.com**
+
 
 <a href="https://www.github.com/MVKarthikReddy" target="_blank"><img
 src="https://img.shields.io/github/followers/MVKarthikReddy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
