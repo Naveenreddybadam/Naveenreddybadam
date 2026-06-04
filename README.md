@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/Naveenreddybadam?logo=github&style=
 ## My Skills 🚀 
 <h3>👨‍💻Languages & Framework: </h3>
 
- ![My Skills](https://skillicons.dev/icons?i=js,react,java,python,css,html,springboot,mysql,java)
+ ![My Skills](https://skillicons.dev/icons?i=js,react,java,python,css,html,spring,mysql)
  <br/>
  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
   ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
