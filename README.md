@@ -32,7 +32,7 @@ src="https://img.shields.io/github/followers/Naveenreddybadam?logo=github&style=
  
  <h3>⚒️Tools:</h3>
  
-  ![My Skills](https://skillicons.dev/icons?i=github,eclipse,intellij,vscode)
+  ![My Skills](https://skillicons.dev/icons?i=github,eclipse,IntellJ,vscode)
  
 
 
