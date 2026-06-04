@@ -3,8 +3,8 @@
 </div> 
 <br><br>
 
- <h1 align="center">Hi Folks 👋, I'm Karthik Reddy</h1>
-<h3 align="center">A passionate full-stack developer </h3>
+ <h1 align="center">Hi Folks 👋, I'm Naveen Reddy</h1>
+<h3 align="center">A passionate Java full-stack developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MVKarthikReddy&label=Profile%20views&color=0e75b6&style=flat" alt="Karthik Reddy" /> </p>
 
