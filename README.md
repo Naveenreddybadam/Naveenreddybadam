@@ -13,17 +13,17 @@
 - 📫 This is gmail **badamnaveenreddy2@gmail.com**
 
 
-<a href="https://www.github.com/MVKarthikReddy" target="_blank"><img
-src="https://img.shields.io/github/followers/MVKarthikReddy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://github.com/Naveenreddybadam" target="_blank"><img
+src="https://img.shields.io/github/followers/Naveenreddybadam?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <h2 align="left">Connect with me:</h2>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-reddy-medagam)  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/naveenbadam)  
 
 ## My Skills 🚀 
 <h3>👨‍💻Languages & Framework: </h3>
 
- ![My Skills](https://skillicons.dev/icons?i=js,react,redux,django,python,tailwind,css,html,nodejs,express,mongodb,java)
+ ![My Skills](https://skillicons.dev/icons?i=js,react,java,python,css,html,springboot,mysql,java)
  <br/>
  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
   ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
